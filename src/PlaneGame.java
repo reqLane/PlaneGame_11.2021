@@ -9,8 +9,8 @@ import java.awt.event.KeyEvent;
 /**
  * Plane game class
  * 
- * @author Vladyslav Marchenko
- * @Files Samolet.java
+ * @author reqLane
+ * @Files PlaneGame.java
  */
 
 //To run this program you need to run PlaneGame.main() (on the left of the 18th line).
